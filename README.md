@@ -2,14 +2,12 @@
 
 <b>My YouTube Channel Link -    </b>
   <a href="https://www.youtube.com/channel/UCSLMS3odjPxesH02jnhWMnA" target="_blank">
-  <img height="30"
-    alt="Youtube"
+  <img height="30"    alt="Youtube"
     src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
-  /><br>
+  a/><br>
   <b>My Linktree  Link -    </b>
-  <a href=https://linktr.ee/jhparmar" target="_blank">
-  <img height="30"
-    alt="Linktree"
+  <a href="https://linktr.ee/jhparmar" target="_blank">
+  <img height="30"     alt="Linktree"
     src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png"
 </a>
 <b>      (Subscribe to stay updated on new videos and courses)   </b>
