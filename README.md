@@ -1,8 +1,8 @@
 ### Hi there 👋 This is AI Anytime's GitHub. You can find all the repositories of the code here that has been discussed on the AI Anytime YouTube Channel.
 
 <b>My YouTube Channel Link -    </b>
-  <a href="https://www.youtube.com/channel/UC-zVytOQB62OwMhKRi0TDvg" target="_blank">
-  <img height="30"
+  <a href="https://www.youtube.com/channel/UCSLMS3odjPxesH02jnhWMnA" target="_blank">
+  <img height="35"
     alt="Youtube"
     src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
   />
