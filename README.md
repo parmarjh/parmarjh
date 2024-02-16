@@ -14,7 +14,7 @@
 
 - 👨‍💻 More about me on my personal website: [Jatinparmar.com](https://dev.to/jhparmar)
 - 👨‍💻 Some tutorials on my: [Youtube channel](https://www.youtube.com/@funinaiofficial)
-- 📁 My resume: [jatinparmar/resume](https:resume/)
+- 📁 My resume: [jatinparmar/resume](https://about.me/jhparmar)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
