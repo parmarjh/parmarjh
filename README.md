@@ -12,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhparmar&label=Profile%20views&color=0e75b6&style=flat" alt="Jatinkumar parmar" /> </p>
 
-- 👨‍💻 More about me on my personal website: [alejandro-ao.com](https://alejandro-ao.com/)
+- 👨‍💻 More about me on my personal website: [Jatinparmar.com](https://dev.to/jhparmar)
 - 👨‍💻 Some tutorials on my: [Youtube channel](https://www.youtube.com/@funinaiofficial)
-- 📁 My resume: [alejandro-ao.com/resume](https://alejandro-ao.com/resum/)
+- 📁 My resume: [jatinparmar/resume](https:resume/)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
