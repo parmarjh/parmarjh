@@ -1,4 +1,4 @@
-### Hi there 👋 This is parmarjh's GitHub. You can find all the repositories of the code here that has been discussed on the AI/ML Related Content and My Youtube Channel **FUNINAIOFFICIAL**.
+### Hi there 👋I’m an AI Engineer skilled in creating AI solutions from start to finish using Google Cloud. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of Google Cloud’s tools ,AWS and services. My focus is on using Generative AI and Large Language Models to improve Google Contact Centre AI.IBM AI,NVIDIA AI, Intel AI, I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses and My Youtube Channel **FUNINAIOFFICIAL**.
 
 <b>My YouTube Channel Link -    </b>
   <a href="https://www.youtube.com/channel/UCSLMS3odjPxesH02jnhWMnA" target="_blank">
@@ -18,20 +18,28 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Full-Stack project: ChatGPT API, React, and Node](https://medium.com/@alejandro-ao/full-stack-project-chatgpt-api-react-and-node-e432c20ade94?source=rss-7e4e748ece1a------2)
-- [How to create a Chrome Extension with Manifest V3](https://medium.com/@alejandro-ao/how-to-create-a-chrome-extension-with-manifest-v3-1ddd679b75a7?source=rss-7e4e748ece1a------2)
-- [Logistic Regression Tutorial: Predicting Breast Cancer](https://medium.com/@alejandro-ao/logistic-regression-tutorial-predicting-breast-cancer-6964f4244e6f?source=rss-7e4e748ece1a------2)
-- [A Simple Explanation of Linear Regression &lpar;Example using R&rpar;](https://medium.com/@alejandro-ao/a-simple-explanation-of-linear-regression-cb6126afe4c2?source=rss-7e4e748ece1a------2)
-- [How to create and configure a MySQL database for WordPress using the command line](https://medium.com/@alejandro-ao/how-to-create-and-configure-a-mysql-database-for-wordpress-3979bd9ce8b?source=rss-7e4e748ece1a------2)
-<!-- BLOG-POST-LIST:END -->
+-  🔭 I’m currently working on **Researcher  & Development**
+- 👨‍💻 All of my projects and Article are available at [https://dev.to/jhparmar](https://dev.to/jhparmar)
+- 📝 I regularly write articles base Youtube  on [https://www.youtube.com/@funinaiofficial](https://www.youtube.com/@funinaiofficial)
+- 💬 Ask me about **Generative AI**
+- Join Discord to Learn GenAI [Join Discord](https://discord.gg/jhparmar)
 
-<h3 align="left">Connect with me:</h3>
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jhparmar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aavila0707" height="30" width="40" /></a>
-<a href="https://dev.to/jhparmar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alejandro-ao" height="30" width="40" /></a>
-  <a href="https://codepen.io/jhparmar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aavila0707" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@funinaiofficial" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alejandro ao - learn to code" height="30" width="40" /></a>
+
+| Platform | Link |
+|----------|------|
+| ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/jhparmar/) |
+| ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) | [Twitter](https://x.com/Yash_Kavaiya_) |
+| ![Linktree](https://img.icons8.com/color/48/000000/linktree.png) | [Linktree](https://linktr.ee/jhparmar) |
+| ![Medium](https://img.icons8.com/color/48/000000/medium-logo.png) | [Medium](https://medium.com/@parmarjatin4911) |
+| ![GitHub](https://img.icons8.com/color/48/000000/github.png) | [GitHub](https://github.com/parmarjh) |
+| ![Kaggle](https://img.icons8.com/color/48/000000/kaggle.png) | [Kaggle](https://www.kaggle.com/jhparmar) |
+| ![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png) | [Hugging Face](https://huggingface.co/jhparmar) |
+| ![Aspecta](https://img.icons8.com/color/48/000000/aspecta.png) | [Aspecta](https://aspecta.id/u/jhparmar) |
 </p>
+
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
