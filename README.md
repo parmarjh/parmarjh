@@ -15,14 +15,15 @@
 - 👨‍💻 More about me on my personal website: [Jatinparmar.com](https://dev.to/jhparmar)
 - 👨‍💻 Some tutorials on my: [Youtube channel](https://www.youtube.com/@funinaiofficial)
 - 📁 My resume: [jatinparmar/resume](https://about.me/jhparmar)
+- 👨‍💻 Some tutorials on my Portfolio: [Portfolio](https://jatin-mu.vercel.app/)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 -  🔭 I’m currently working on **Researcher  & Development**
 - 👨‍💻 All of my projects and Article are available at [https://dev.to/jhparmar](https://dev.to/jhparmar)
 - 📝 I regularly write articles base Youtube  on [https://www.youtube.com/@funinaiofficial](https://www.youtube.com/@funinaiofficial)
-- 💬 Ask me about **Generative AI**
-- Join Discord to Learn GenAI [Join Discord](https://discord.gg/jhparmar)
+- 💬 Ask me about **Generative AI / llm / AGI / AI / ML / CHATBOT**
+- ***** Join Discord to Learn GenAI [Join Discord](https://discord.gg/parmarjatin4911) *****
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
