@@ -16,6 +16,7 @@
 - 👨‍💻 Some tutorials on my: [Youtube channel](https://www.youtube.com/@funinaiofficial)
 - 📁 My resume: [jatinparmar/resume](https://about.me/jhparmar)
 - 👨‍💻 Some tutorials on my Portfolio: [Portfolio](https://jatin-mu.vercel.app/)
+- - 👨‍💻 Some tutorials on my Website : [Shivay ai LLp](https://i-shiva-ai.vercel.app/)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
