@@ -36,8 +36,8 @@
 | ![Linktree](https://img.icons8.com/color/48/000000/linktree.png) | [Linktree](https://linktr.ee/jhparmar) |
 | ![Medium](https://img.icons8.com/color/48/000000/medium-logo.png) | [Medium](https://medium.com/@parmarjatin4911) |
 | ![GitHub](https://img.icons8.com/color/48/000000/github.png) | [GitHub](https://github.com/parmarjh) |
-| ![Kaggle](https://img.icons8.com/color/48/000000/kaggle.png) | [Kaggle](https://www.kaggle.com/jhparmar) |
-| ![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png) | [Hugging Face](https://huggingface.co/jhparmar) |
+| ![Kaggle](https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png) | [Kaggle](https://www.kaggle.com/jhparmar) |
+| ![Hugging Face](https://th.bing.com/th/id/OIP.Bz8NJZhyjcCKXPEpSPQD4wHaE8?rs=1&pid=ImgDetMain) | [Hugging Face](https://huggingface.co/jhparmar) |
 | ![Aspecta](https://img.icons8.com/color/48/000000/aspecta.png) | [Aspecta](https://aspecta.id/u/jhparmar) |
 </p>
 
