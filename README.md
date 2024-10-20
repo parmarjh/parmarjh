@@ -38,7 +38,7 @@
 | ![GitHub](https://img.icons8.com/color/48/000000/github.png) | [GitHub](https://github.com/parmarjh) |
 | ![Kaggle](https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png) | [Kaggle](https://www.kaggle.com/jhparmar) |
 | ![Hugging Face](https://th.bing.com/th/id/OIP.Bz8NJZhyjcCKXPEpSPQD4wHaE8?rs=1&pid=ImgDetMain) | [Hugging Face](https://huggingface.co/jhparmar) |
-| ![Aspecta](https://img.icons8.com/color/48/000000/aspecta.png) | [Aspecta](https://aspecta.id/u/jhparmar) |
+| ![Aspecta](https://www.coindesk.com/resizer/mmvJJSVDvVc-1YmQAmI25jak-Uw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DC5YVIDQPNAR7MLRG6FSBDJFEI.png) | [Aspecta](https://aspecta.id/u/jhparmar) |
 </p>
 
 <!-- BLOG-POST-LIST:END -->
