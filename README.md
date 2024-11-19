@@ -39,7 +39,7 @@
 | ![Kaggle](https://github.com/parmarjh/I-shiva-ai/blob/main/images/kaggle-logo.png) | [Kaggle](https://www.kaggle.com/jhparmar) |
 | ![Hugging Face](https://github.com/parmarjh/I-shiva-ai/blob/main/images/huggiface.jpg) | [Hugging Face](https://huggingface.co/jhparmar) |
 | ![Aspecta](https://github.com/parmarjh/I-shiva-ai/blob/main/images/asp.jpg) | [Aspecta](https://aspecta.id/u/jhparmar) |
-| ![Microsoft](https://github.com/parmarjh/I-shiva-ai/blob/main/images/asp.jpg) | [Microsoft ](https://learn.microsoft.com/en-us/users/jhparmar/achievements?tab=applied-skills-tab) |
+| ![Microsoft](https://github.com/parmarjh/parmarjh/blob/main/azurew.jpeg) | [Microsoft ](https://learn.microsoft.com/en-us/users/jhparmar/achievements?tab=applied-skills-tab) |
 </p>
 
 <!-- BLOG-POST-LIST:END -->
