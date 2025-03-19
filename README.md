@@ -5,7 +5,20 @@
 
     ## I'm a Author,Director, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhparmar/)
 
-an AI Engineer skilled in creating AI solutions from start to finish using Google Cloud. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of Google Cloud’s tools ,AWS and services. My focus is on using Generative AI and Large Language Models to improve Google Contact Centre AI.IBM AI,NVIDIA AI, Intel AI, I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses and My Youtube Channel **FUNINAIOFFICIAL**.   #####  *****I love Mahakal we think the word AI is derived from Shiva ai llp.**** #####
+am I AI Engineer skilled in creating AI solutions from start to finish using Google Cloud. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of Google Cloud’s tools ,AWS and services. My focus is on using Generative AI and Large Language Models to improve Google Contact Centre AI.IBM AI,NVIDIA AI, Intel AI, I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses and My Youtube Channel **FUNINAIOFFICIAL**.   #####  *****I love Mahakal we think the word AI is derived from Shiva ai llp.**** #####
+
+
+---
+
+  * 🔭 I am Currently working as **Sr.AWS AI ML Solution Architect** at [Startup](https://persistventures.com/)
+
+  - 🌱 I’m currently Learning Quantum Machine learning😎.
+
+  - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
+  
+  - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
+  
+  - 🥅 2022-23 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 
 <b>My YouTube Channel Link -    </b>
   <a href="https://www.youtube.com/channel/UCSLMS3odjPxesH02jnhWMnA" target="_blank">
