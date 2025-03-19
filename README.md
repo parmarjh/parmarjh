@@ -99,7 +99,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 </div>
 
  - Laptop (I am using)
- -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)  
+ -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)     
 
 ||Model|Bench
 :----|:----|:----|
@@ -108,7 +108,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 **GPU**|[Nvidia RTX 3060 (Laptop)](https://gpu.userbenchmark.com/SpeedTest/1452971/NVIDIA-GeForce-RTX-3060-Laptop-GPU)|84.1%
 **SSD**|[Samsung MZVLB1T0HBLR-00007 1TB](https://ssd.userbenchmark.com/SpeedTest/963042/SAMSUNG-MZVLB1T0HBLR-00007)|104.4%
 **RAM**|[Hynix HMAA2GS6AJR8N-XN 1x16GB](https://ram.userbenchmark.com/SpeedTest/1166099/Hynix-HMAA2GS6AJR8N-XN-1x16GB)|37.8%
-**MBD**|[Acer Predator PH315-53](https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818)|   
+**MBD**|[Acer Predator PH315-53](https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818)|      
 
 ### Important Repository
 
