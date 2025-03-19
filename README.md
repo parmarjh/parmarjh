@@ -14,7 +14,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 
   - 🌱 I’m currently Learning Quantum Machine learning😎.
 
-  - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
+  - 📚 I have reviewed more than **14+ Technical books for Packt, Manning and Springer nature**.
   
   - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
   
