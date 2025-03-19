@@ -52,7 +52,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 ---
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmarjh&show_icons=true&theme=radical) | [![Jatin Parmar's Stri](https://streak-stats.demolab.com?user=jhparmar&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhparmar26&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhparmar&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 
 
 
