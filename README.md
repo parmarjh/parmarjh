@@ -1,4 +1,9 @@
-### Hi there 👋I’m an AI Engineer skilled in creating AI solutions from start to finish using Google Cloud. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of Google Cloud’s tools ,AWS and services. My focus is on using Generative AI and Large Language Models to improve Google Contact Centre AI.IBM AI,NVIDIA AI, Intel AI, I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses and My Youtube Channel **FUNINAIOFFICIAL**.   #####  *****I love Mahakal we think the word AI is derived from Shiva ai llp.**** #####
+### Hi there I’m Jatinkumare Parmar 
+![](https://komarev.com/ghpvc/?username=jhparmar&color=green)  
+  [![Website](https://img.shields.io/website?label=jhparmar&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jhparmar/)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/parmarjatin4911?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/parmarjatin4911)
+
+an AI Engineer skilled in creating AI solutions from start to finish using Google Cloud. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of Google Cloud’s tools ,AWS and services. My focus is on using Generative AI and Large Language Models to improve Google Contact Centre AI.IBM AI,NVIDIA AI, Intel AI, I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses and My Youtube Channel **FUNINAIOFFICIAL**.   #####  *****I love Mahakal we think the word AI is derived from Shiva ai llp.**** #####
 
 <b>My YouTube Channel Link -    </b>
   <a href="https://www.youtube.com/channel/UCSLMS3odjPxesH02jnhWMnA" target="_blank">
