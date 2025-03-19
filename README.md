@@ -68,31 +68,31 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <img src="./python.jpeg" width="65px"/>
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <img src="./jupyter.png" width="65px"/>
             <br /> Jupyter
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <img src="./tensorflow.png" width="65px"/>
             <br /> TensorFlow
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <img src="./pytorch.png" width="65px"/>
             <br /> Pytorch
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <img src="./scikitlearn.png" width="65px"/>
             <br /> Scikit Learn
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <img src="./fastapi.png" width="65px"/>
             <br /> FastAPI
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
+            <img src="./docker.png" width="65px"/>
             <br /> Docker
         </td>
     </tr>
