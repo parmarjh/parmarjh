@@ -35,7 +35,8 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 - 👨‍💻 More about me on my personal website: [Jatinparmar.com](https://dev.to/jhparmar)
 - 👨‍💻 Some tutorials on my: [Youtube channel](https://www.youtube.com/@funinaiofficial)
 - 📁 My resume: [jatinparmar/resume](https://about.me/jhparmar)
-- 👨‍💻 Some tutorials on my Portfolio: [Portfolio](https://jatin-mu.vercel.app/)
+- 👨‍💻 Some tutorials on my Portfolio: [Portfolio](https://jatin-parmar-ppt.vercel.app/)
+- 👨‍💻 Some tutorials on my stsrtup Idea pitch: [ai-dialogflow-saas-webflow](https://ai-dialogflow-saas-webflow.vercel.app/)
 - - 👨‍💻 Some tutorials on my Website : [Shivay ai LLp](https://i-shiva-ai.vercel.app/)
 
 ### Blog posts
