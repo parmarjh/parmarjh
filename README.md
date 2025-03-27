@@ -16,7 +16,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 
   - 📚 I have reviewed more than **14+ Technical books for Packt, Manning and Springer nature**.
   
-  - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
+  - 👯 I’m collaborator in `keras`, `tensorflow`, `yolov`,`pytorch`  and looking for more multiple collaboration.
   
   - 🥅 2022-23 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 
@@ -44,7 +44,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 -  🔭 I’m currently working on **Researcher  & Development**
 - 👨‍💻 All of my projects and Article are available at [https://dev.to/jhparmar](https://dev.to/jhparmar)
 - 📝 I regularly write articles base Youtube  on [https://www.youtube.com/@funinaiofficial](https://www.youtube.com/@funinaiofficial)
-- 💬 Ask me about **Generative AI / llm / AGI / AI / ML / CHATBOT**
+- 💬 Ask me about **Generative AI / llm / AGI / AI / ML / CHATBOT / Prompt Engineer / system engineer**
 - ***** Join Discord to Learn GenAI [Join Discord](https://discord.gg/parmarjatin4911) *****
 
 - 
