@@ -18,7 +18,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   
   - 👯 I’m collaborator in `keras`, `tensorflow`, `yolov`,`pytorch`  and looking for more multiple collaboration.
   
-  - 🥅 2022-23 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+  - 🥅 2025-26 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation, AGI, No code plateform development, genai, llm  etc.
 
 <b>My YouTube Channel Link -    </b>
   <a href="https://www.youtube.com/channel/UCSLMS3odjPxesH02jnhWMnA" target="_blank">
