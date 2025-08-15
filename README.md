@@ -14,6 +14,9 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 
   - 🌱 I’m currently Learning Quantum Machine learning😎.
 
+  * 🔭 I am Currently working as **Sr.AWS AI ML Solution Architect** at [Startup at Persistventure](https://www.youware.com/profile/Pq7HgjRtu5WAy0oAN6EsL1SknKH3)
+  -  - 🌱 I’m currently New Learning Quantum Implement VIBE CODE [YouWave]() 😎.
+
   - 📚 I have reviewed more than **14+ Technical books for Packt, Manning and Springer nature**.
   
   - 👯 I’m collaborator in `keras`, `tensorflow`, `yolov`,`pytorch`  and looking for more multiple collaboration.
