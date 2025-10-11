@@ -23,7 +23,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   
   - 🥅 2025-26 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation, AGI, No code plateform development, genai, llm  etc.
 
-<b>My YouTube Channel Link -    </b>
+
 <!-- YouTube and Coffee Section -->
 <p><b>My YouTube Channel Link -</b></p>
 <a href="https://www.youtube.com/channel/funinofficial" target="_blank">
