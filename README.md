@@ -83,7 +83,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   </a>
 </p>
 
-  a/>
+  
 
 
 <h1 align="center">Hi 👋, I'm Jatinkumar parmar  </h1>
