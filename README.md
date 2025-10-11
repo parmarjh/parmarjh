@@ -27,6 +27,10 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   <a href="https://www.youtube.com/channel/UCSLMS3odjPxesH02jnhWMnA" target="_blank">
   <img height="30"    alt="Youtube"
     src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+  ☕ Before diving into the long list of categories and templates, grab your coffee-and if you enjoy my work, don’t forget to buy me a coffee! 
+
+<a href="https://buymeacoffee.com/jhparmar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
   a/>
 
 
