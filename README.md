@@ -104,7 +104,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
     </a>
   </li>
   <li>
-    <a href="https://lnkd.in/dqKcPzWq" target="_blank">
+    <a href="https://lnkd.in/jainjatin" target="_blank">
       <b>Comet Browser</b> – 1 Month Free Premium Plan
     </a>
   </li>
