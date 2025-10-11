@@ -97,12 +97,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
     <a href="https://chat.lindy.ai/signup?rc=FERtKdU7wu&utm_source=referral" target="_blank">
       <b>Lindy AI</b> – Chat & Automation Assistant Signup
     </a>
-  </li>
-  <li>
-    <a href="https://app.findpros.ai/consultant-detail/68e526f388216e0e08d79fcf" target="_blank">
-      <b>FindPros.ai</b> – AI Consulting Network
-    </a>
-  </li>
+ 
   <li>
     <a href="https://lnkd.in/jainjatin" target="_blank">
       <b>Comet Browser</b> – 1 Month Free Premium Plan
@@ -127,6 +122,10 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
     </a>
   </li>
   <li>
+    <a href="https://app.findpros.ai/consultant-detail/68e526f388216e0e08d79fcf" target="_blank">
+      <b>FindPros.ai</b> – AI Consulting Network
+    </a>
+  </li>
 </ul>
 
 <hr>
@@ -136,7 +135,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   <a href="https://www.youtube.com/channel/funinofficial" target="_blank">
     <img height="30" alt="YouTube"
       src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
-  </a>
+  </a> 
 </p>
 
 <p>☕ If you enjoy my work, consider supporting me:</p>
