@@ -220,7 +220,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 </div>
 
  - Laptop (I am using)
- -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)     
+ -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/jhparmar/54001935)     
 
 ||Model|Bench
 :----|:----|:----|
