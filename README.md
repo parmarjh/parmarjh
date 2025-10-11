@@ -24,9 +24,9 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   - 🥅 2025-26 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation, AGI, No code plateform development, genai, llm  etc.
 
 <b>My YouTube Channel Link -    </b>
-  <a href="https://www.youtube.com/channel/UCSLMS3odjPxesH02jnhWMnA" target="_blank">
+  <a href="https://www.youtube.com/channel/funinofficial" target="_blank">
   <img height="30"    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"<br>
   ☕ Before diving into the long list of categories and templates, grab your coffee-and if you enjoy my work, don’t forget to buy me a coffee! 
 
 <a href="https://buymeacoffee.com/jhparmar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
