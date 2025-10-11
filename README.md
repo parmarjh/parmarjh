@@ -118,6 +118,15 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
       <b>Claude Code Playbook</b> – AI Coding Workflow Guide
     </a>
   </li>
+    <b>FindPros.ai</b> – AI Consulting Network
+    </a>
+  </li>
+  <li>
+    <a href="https://rewards.bing.com/welcome?rh=6E1FCC41&ref=rafsrchae" target="_blank">
+      <b>Bing Browser</b> – 1 Month Free Premium Plan
+    </a>
+  </li>
+  <li>
 </ul>
 
 <hr>
@@ -163,13 +172,13 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   - ⚡ Fun fact: I love to code.
 
 ---
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmarjh&show_icons=true&theme=radical) | [![Jatin Parmar's Stri](https://streak-stats.demolab.com?user=ashishpatel26&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmarjh&show_icons=true&theme=radical) | [![Jatin Parmar's Stri](https://streak-stats.demolab.com?user=ashishpatel26&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhparmar&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jatin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhparmar&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
