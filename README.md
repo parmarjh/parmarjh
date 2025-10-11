@@ -114,7 +114,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
     </a>
   </li>
   
-    </a>
+  
   </li>
   <li>
     <a href="https://rewards.bing.com/welcome?rh=6E1FCC41&ref=rafsrchae" target="_blank">
