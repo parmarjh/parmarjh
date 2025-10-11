@@ -78,7 +78,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
     <img src="https://img.shields.io/badge/ProductHunt-DA552F?logo=producthunt&logoColor=white&style=for-the-badge" alt="Product Hunt">
   </a>
 
-  <a href="https://chat.whatsapp.com/LBPLiZvxsD7LvNTF8pJXgX" target="_blank">
+  <a href="https://wa.me/qr/SAP6LHQWK3V2I1" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Group">
   </a>
 </p>
