@@ -33,55 +33,108 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
 
 <p>☕ Before diving into the long list of categories and templates, grab your coffee—and if you enjoy my work, don’t forget to buy me a coffee!</p>
 
-<a href="https://buymeacoffee.com/jhparmar" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-</a>
+<!-- 🔗 JATINKUMAR PARMAR - Official Link Hub -->
+<h2 align="center">🌐 Connect & Explore My Platforms</h2>
 
-<hr>
-
-<!-- Social Profiles -->
-<h3>🌐 Connect with me:</h3>
-<p>
+<p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jhparmar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
 
+  <!-- Medium -->
   <a href="https://jhparmar.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium">
   </a>
 
+  <!-- GitHub -->
   <a href="https://www.github.com/parmarjh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
 
+  <!-- X (Twitter) -->
   <a href="https://x.com/parmarjatin4911" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X">
   </a>
 
+  <!-- XING -->
   <a href="https://www.xing.com/profile/Jatinkumar_Parmar" target="_blank">
     <img src="https://img.shields.io/badge/XING-006567?logo=xing&logoColor=white&style=for-the-badge" alt="XING">
   </a>
 
+  <!-- Facebook -->
   <a href="https://www.facebook.com/prmrj3" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
   </a>
+</p>
 
-  <a href="https://www.youware.com/invite/VT0J5IX06B" target="_blank">
-    <img src="https://img.shields.io/badge/Youware-FF7A00?logo=firefoxbrowser&logoColor=white&style=for-the-badge" alt="Youware">
-  </a>
+<hr>
 
-  <a href="https://mulerun.com/invitation/NMAHP49BY7DA" target="_blank">
-    <img src="https://img.shields.io/badge/Mulerun-009688?logo=playwright&logoColor=white&style=for-the-badge" alt="Mulerun">
-  </a>
+<h3>🚀 Referral & Reward Platforms</h3>
 
-  <a href="https://www.producthunt.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ProductHunt-DA552F?logo=producthunt&logoColor=white&style=for-the-badge" alt="Product Hunt">
-  </a>
+<ul>
+  <li>
+    <a href="https://www.youware.com/invite/VT0J5IX06B" target="_blank">
+      <b>Youware</b> – <i>#PointOfView: 1000 minimum #Rewards</i>
+    </a>
+  </li>
+  <li>
+    <a href="https://mulerun.com/invitation/NMAHP49BY7DA" target="_blank">
+      <b>Mulerun</b> – <i>#PointOfView: 500 minimum #Rewards</i>
+    </a>
+  </li>
+  <li>
+    <a href="https://app.usebraintrust.com/r/jatinkumar2/" target="_blank">
+      <b>Braintrust</b> – <i>#JobReferral #AI #ML #GenAI #LLM #Chatbot #NoCode #SDE #Developer #PM #ProductManager #ProjectManager #Manager</i>
+    </a>
+  </li>
+  <li>
+    <a href="https://work.mercor.com/?referralCode=27f22b2a-d157-11ee-a4ba-42010a400021" target="_blank">
+      <b>Mercor</b> – Developer & Remote Job Network
+    </a>
+  </li>
+  <li>
+    <a href="https://chat.lindy.ai/signup?rc=FERtKdU7wu&utm_source=referral" target="_blank">
+      <b>Lindy AI</b> – Chat & Automation Assistant Signup
+    </a>
+  </li>
+  <li>
+    <a href="https://app.findpros.ai/consultant-detail/68e526f388216e0e08d79fcf" target="_blank">
+      <b>FindPros.ai</b> – AI Consulting Network
+    </a>
+  </li>
+  <li>
+    <a href="https://lnkd.in/dqKcPzWq" target="_blank">
+      <b>Comet Browser</b> – 1 Month Free Premium Plan
+    </a>
+  </li>
+  <li>
+    <a href="https://lovable.dev/invite/LY65WA9" target="_blank">
+      <b>Lovable.dev</b> – AI Dev Tools Community
+    </a>
+  </li>
+  <li>
+    <a href="https://claude-code-playbook.lovable.app/?utm_source=codenewsletter.ai&utm_medium=newsletter&utm_campaign=google-s-computer-use-model-openai-s-agent-builder&_bhlid=b0de5b48cb28207aa5531793a4cabbf01099e29d" target="_blank">
+      <b>Claude Code Playbook</b> – AI Coding Workflow Guide
+    </a>
+  </li>
+</ul>
 
-  <a href="https://wa.me/qr/SAP6LHQWK3V2I1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Group">
+<hr>
+
+<h3>🎥 My YouTube Channel</h3>
+<p>
+  <a href="https://www.youtube.com/channel/funinofficial" target="_blank">
+    <img height="30" alt="YouTube"
+      src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
   </a>
 </p>
+
+<p>☕ If you enjoy my work, consider supporting me:</p>
+<a href="https://buymeacoffee.com/jhparmar" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
 
   
 
