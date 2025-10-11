@@ -113,7 +113,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
       <b>Claude Code Playbook</b> – AI Coding Workflow Guide
     </a>
   </li>
-    <b>FindPros.ai</b> – AI Consulting Network
+  
     </a>
   </li>
   <li>
