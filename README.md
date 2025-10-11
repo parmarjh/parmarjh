@@ -24,12 +24,64 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   - 🥅 2025-26 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation, AGI, No code plateform development, genai, llm  etc.
 
 <b>My YouTube Channel Link -    </b>
-  <a href="https://www.youtube.com/channel/funinofficial" target="_blank">
-  <img height="30"    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"<br>
-  ☕ Before diving into the long list of categories and templates, grab your coffee-and if you enjoy my work, don’t forget to buy me a coffee! 
+<!-- YouTube and Coffee Section -->
+<p><b>My YouTube Channel Link -</b></p>
+<a href="https://www.youtube.com/channel/funinofficial" target="_blank">
+  <img height="30" alt="YouTube"
+    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
+</a>
 
-<a href="https://buymeacoffee.com/jhparmar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<p>☕ Before diving into the long list of categories and templates, grab your coffee—and if you enjoy my work, don’t forget to buy me a coffee!</p>
+
+<a href="https://buymeacoffee.com/jhparmar" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
+<hr>
+
+<!-- Social Profiles -->
+<h3>🌐 Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/jhparmar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+
+  <a href="https://jhparmar.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium">
+  </a>
+
+  <a href="https://www.github.com/parmarjh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>
+
+  <a href="https://x.com/parmarjatin4911" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X">
+  </a>
+
+  <a href="https://www.xing.com/profile/Jatinkumar_Parmar" target="_blank">
+    <img src="https://img.shields.io/badge/XING-006567?logo=xing&logoColor=white&style=for-the-badge" alt="XING">
+  </a>
+
+  <a href="https://www.facebook.com/prmrj3" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
+  </a>
+
+  <a href="https://www.youware.com/invite/VT0J5IX06B" target="_blank">
+    <img src="https://img.shields.io/badge/Youware-FF7A00?logo=firefoxbrowser&logoColor=white&style=for-the-badge" alt="Youware">
+  </a>
+
+  <a href="https://mulerun.com/invitation/NMAHP49BY7DA" target="_blank">
+    <img src="https://img.shields.io/badge/Mulerun-009688?logo=playwright&logoColor=white&style=for-the-badge" alt="Mulerun">
+  </a>
+
+  <a href="https://www.producthunt.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ProductHunt-DA552F?logo=producthunt&logoColor=white&style=for-the-badge" alt="Product Hunt">
+  </a>
+
+  <a href="https://chat.whatsapp.com/LBPLiZvxsD7LvNTF8pJXgX" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Group">
+  </a>
+</p>
 
   a/>
 
