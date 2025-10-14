@@ -99,8 +99,8 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
     </a>
  
   <li>
-    <a href="https://lnkd.in/jainjatin" target="_blank">
-      <b>Comet Browser</b> – 1 Month Free Premium Plan
+    <a href="https://pplx.ai/jainjatin " target="_blank">
+      <b>Comet perplexibikity Browser</b> – 1 Month Free Premium Plan
     </a>
   </li>
   <li>
