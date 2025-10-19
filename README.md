@@ -147,6 +147,21 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   </a> 
 </p>
 
+
+<hr>
+
+<h3>🎥 My YouTube Channel</h3>
+<p>
+  <a href="https://mulerun.com/invitation/NMAHP49BY7DA" target="_blank">
+   <a href="https://mulerun.com/invitation/WLFKGHF5T7YU" target="_blank"> 
+      <a href="https://mulerun.com/invitation/DCYYM68ZUUSR" target="_blank"> 
+    <img height="30" alt="Mulerun AI automation"
+      src="https://img.shields.io/badge/Mulerun-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
+  </a> 
+</p>
+ <li>
+    
+
 <p>☕ If you enjoy my work, consider supporting me:</p>
 <a href="https://buymeacoffee.com/jhparmar" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
