@@ -80,7 +80,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   </li>
   <li>
     <a href="https://mulerun.com/invitation/NMAHP49BY7DA" target="_blank">
-      <b>Mulerun</b> – <i>#PointOfView: 500 minimum #Rewards</i>
+      <b>Mulerun</b> – <i>AI Automation Marketing all tools Free try#PointOfView: 500 minimum #Rewards</i>
     </a>
   </li>
   <li>
