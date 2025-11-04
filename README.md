@@ -3,7 +3,7 @@
   [![Website](https://img.shields.io/website?label=jhparmar&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jhparmar/)
   [![Twitter Follow](https://img.shields.io/twitter/follow/parmarjatin4911?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/parmarjatin4911)
 
-   ## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhparmar/)
+   ## I'm a Author, Sr. Data Scientist, AI Researcher,genai, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhparmar/)
 
 am I AI Engineer skilled in creating AI solutions from start to finish using Google Cloud. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of Google Cloud’s tools ,AWS and services. My focus is on using Generative AI and Large Language Models to improve Google Contact Centre AI.IBM AI,NVIDIA AI, Intel AI, I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses and My Youtube Channel **FUNINAIOFFICIAL**.   #####  *****I love Mahakal we think the word AI is derived from Shiva ai llp.**** #####
 
