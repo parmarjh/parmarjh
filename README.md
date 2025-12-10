@@ -85,6 +85,11 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
       <b>Mulerun</b> – <i>AI Automation Marketing all tools Free try#PointOfView: 500 minimum #Rewards</i>
     </a>
   </li>
+       <li>
+    <a href="https://refer.micro1.ai/referral/jobs?referralCode=e649238d-eb23-4aa4-947b-561158d106fb&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">
+      <b>Micro1</b> – <i>#JobReferral #AI #ML #GenAI #LLM #Chatbot #NoCode #SDE #Developer #PM #ProductManager #ProjectManager #Manager</i>
+    </a>
+  </li>
   <li>
     <a href="https://app.usebraintrust.com/r/jatinkumar2/" target="_blank">
       <b>Braintrust</b> – <i>#JobReferral #AI #ML #GenAI #LLM #Chatbot #NoCode #SDE #Developer #PM #ProductManager #ProjectManager #Manager</i>
