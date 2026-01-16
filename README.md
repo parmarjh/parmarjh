@@ -217,9 +217,7 @@ am I AI Engineer skilled in creating AI solutions from start to finish using Goo
   - ⚡ Fun fact: I love to code.
 
 ---
-| [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmarjh&show_icons=true&theme=radical) | [![Jatin Parmar's Stri](https://streak-stats.demolab.com?user=ashishpatel26&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+                                                              |
 
 
 
