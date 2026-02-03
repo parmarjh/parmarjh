@@ -64,12 +64,13 @@ I am an **AI Engineer** and **Researcher** skilled in crafting end-to-end AI sol
 ### 🏆 Referral & Opportunity Hub
 *I actively explore and share premium platforms. Join me via these links:*
 
-| Platform | Benefit / Description | Link |
+| Platform | Benefit / Description | Referral   job  |
 | :--- | :--- | :--- |
 | **Youware** | 1000+ Minimum Rewards | [Join Now](https://www.youware.com/invite/VT0J5IX06B) |
 | **Mulerun** | AI Automation Marketing Tools | [Try Free](https://mulerun.com/invitation/DCYYM68ZUUSR) |
 | **Micro1** | AI/ML Job Referrals | [View Jobs](https://refer.micro1.ai/referral/jobs?referralCode=e649238d-eb23-4aa4-947b-561158d106fb) |
 | **Braintrust** | SDE & Product Manager roles | [Referral](https://app.usebraintrust.com/r/jatinkumar2/) |
+| **Wellfound** | SDE & AI ML GENAI Product Manager roles | [Referral](https://wellfound.com/l/2yrQVX) |
 | **Mercor** | Remote Job Network | [Explore](https://work.mercor.com/?referralCode=27f22b2a-d157-11ee-a4ba-42010a400021) |
 | **Perplexity** | 1 Month Free Pro Plan | [Claim](https://pplx.ai/jainjatin) |
 | **Lovable.dev** | AI Dev Tools Community | [Invite](https://lovable.dev/invite/LY65WA9) |
