@@ -74,6 +74,7 @@ I am an **AI Engineer** and **Researcher** skilled in crafting end-to-end AI sol
 | **Mercor** | Remote Job Network | [Explore](https://work.mercor.com/?referralCode=27f22b2a-d157-11ee-a4ba-42010a400021) |
 | **Perplexity** | 1 Month Free Pro Plan | [Claim](https://pplx.ai/jainjatin) |
 | **ApoB.Io** | 15% discount + daily 80 credit Free Pro Plan | [Claim](https://apob.cello.so/6CNcPlrnIM1) |
+| **Onspace.ai.** |  daily 200 credit Free Pro Plan | [Claim](https://www.onspace.ai/invite/6V98yk4) |
 | **Lovable.dev** | AI Dev Tools Community | [Invite](https://lovable.dev/invite/LY65WA9) |
 | **FindPros.ai** | AI Consulting Network | [Consult](https://app.findpros.ai/consultant-detail/68e526f388216e0e08d79fcf) |
 
