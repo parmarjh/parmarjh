@@ -75,7 +75,8 @@ I am an **AI Engineer** and **Researcher** skilled in crafting end-to-end AI sol
 | **Lovable.dev** | AI Dev Tools Community | [Invite](https://lovable.dev/invite/LY65WA9) |
 | **FindPros.ai** | AI Consulting Network | [Invite](https://app.findpros.ai/consultant-detail/68e526f388216e0e08d79fcf) |
 | **Skool.com** | AI Earn 40% commission for life | [Invite](https://www.skool.com/ai-seo-with-julian-goldie-1553/about?ref=9fb433bef2ae4de1b91b29b374a6e04c) |
-| **AutoDM ** | AI Consulting social Network | [invite](https://superprofile.bio?referralCode=zJPqfx&referralType=creatorReferral&source=referralPage) |
+| **NordVpn** | Get your 3 months free right away depending on the purchased plan | [Invite](https://www.skool.com/ai-seo-with-julian-goldie-1553/about?ref=9fb433bef2ae4de1b91b29b374a6e04c) |
+| **AutoDM ** | AI Consulting social Networ | [invite](https://refer-nordvpn.com/fGUupeSUMOF) |
 
 ---
 
