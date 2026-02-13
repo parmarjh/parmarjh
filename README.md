@@ -40,7 +40,7 @@ I am an **AI Engineer** and **Researcher** skilled in crafting end-to-end AI sol
 | **GPU** | Nvidia RTX 3060 Laptop (84.1% Bench) |
 | **RAM** | #32GB Hynix HMAA2GS6AJR8N-XN |
 | **Storage** | 1TB Samsung MZVLB1T0HBLR-00007 SSD |
-| **Blackwell**  (B100/B200/B300) | 
+| **Blackwell**  |  (B100/B200/B300) | 
 
 ---
 
