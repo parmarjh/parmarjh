@@ -43,11 +43,7 @@ I am an **AI Engineer** and **Researcher** skilled in crafting end-to-end AI sol
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parmarjh&show_icons=true&theme=tokyonight&count_private=true" alt="Stat Card" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmarjh&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
-</p>
+
 
 ---
 
