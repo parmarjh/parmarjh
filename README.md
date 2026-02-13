@@ -38,8 +38,9 @@ I am an **AI Engineer** and **Researcher** skilled in crafting end-to-end AI sol
 | :--- | :--- |
 | **CPU** | Intel Core i7-10870H (2.20GHz) |
 | **GPU** | Nvidia RTX 3060 Laptop (84.1% Bench) |
-| **RAM** | 16GB Hynix HMAA2GS6AJR8N-XN |
+| **RAM** | #32GB Hynix HMAA2GS6AJR8N-XN |
 | **Storage** | 1TB Samsung MZVLB1T0HBLR-00007 SSD |
+| **Blackwell**  (B100/B200/B300) | 
 
 ---
 
