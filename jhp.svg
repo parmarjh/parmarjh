@@ -1,0 +1,189 @@
+<svg viewBox="0 0 1584 396" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-15px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.6; transform: scale(1.15); }
+      }
+      @keyframes rotate {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes twinkle {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+    </style>
+    
+    <!-- Google Colors Gradients -->
+    <linearGradient id="allColors" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4285F4;stop-opacity:1" />
+      <stop offset="33%" style="stop-color:#EA4335;stop-opacity:1" />
+      <stop offset="66%" style="stop-color:#FBBC04;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34A853;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1584" height="396" fill="#FFFFFF"/>
+  
+  <!-- Animated Background Circles -->
+  <circle cx="150" cy="100" r="60" fill="#4285F4" opacity="0.1" style="animation: float 4s ease-in-out infinite;"/>
+  <circle cx="1450" cy="100" r="70" fill="#EA4335" opacity="0.1" style="animation: float 5s ease-in-out infinite; animation-delay: 1s;"/>
+  <circle cx="1400" cy="320" r="65" fill="#FBBC04" opacity="0.1" style="animation: float 4.5s ease-in-out infinite; animation-delay: 2s;"/>
+  <circle cx="200" cy="340" r="55" fill="#34A853" opacity="0.1" style="animation: float 3.8s ease-in-out infinite; animation-delay: 0.5s;"/>
+  
+  <!-- Decorative Stars (Top) -->
+  <g style="animation: twinkle 2s ease-in-out infinite;">
+    <circle cx="380" cy="50" r="3" fill="#4285F4"/>
+    <circle cx="370" cy="50" r="1.5" fill="#4285F4"/>
+    <circle cx="390" cy="50" r="1.5" fill="#4285F4"/>
+    <circle cx="380" cy="40" r="1.5" fill="#4285F4"/>
+    <circle cx="380" cy="60" r="1.5" fill="#4285F4"/>
+  </g>
+  
+  <g style="animation: twinkle 2.5s ease-in-out infinite; animation-delay: 0.5s;">
+    <circle cx="1200" cy="60" r="3" fill="#EA4335"/>
+    <circle cx="1190" cy="60" r="1.5" fill="#EA4335"/>
+    <circle cx="1210" cy="60" r="1.5" fill="#EA4335"/>
+    <circle cx="1200" cy="50" r="1.5" fill="#EA4335"/>
+    <circle cx="1200" cy="70" r="1.5" fill="#EA4335"/>
+  </g>
+  
+  <g style="animation: twinkle 2.2s ease-in-out infinite; animation-delay: 1s;">
+    <circle cx="700" cy="45" r="2.5" fill="#FBBC04"/>
+    <circle cx="692" cy="45" r="1.2" fill="#FBBC04"/>
+    <circle cx="708" cy="45" r="1.2" fill="#FBBC04"/>
+    <circle cx="700" cy="37" r="1.2" fill="#FBBC04"/>
+    <circle cx="700" cy="53" r="1.2" fill="#FBBC04"/>
+  </g>
+  
+  <!-- Main Content -->
+  <g>
+    <!-- Name -->
+    <text x="792" y="125" font-family="Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#202124" text-anchor="middle">
+      Jatinkumar Parmar
+    </text>
+    
+    <!-- Colorful underline -->
+    <rect x="450" y="140" width="684" height="5" fill="url(#allColors)">
+      <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    
+    <!-- Star Icon Left -->
+    <text x="170" y="205" font-size="36" style="animation: pulse 1.8s ease-in-out infinite;">🌟</text>
+    
+    <!-- Subtitle -->
+    <text x="792" y="200" font-family="Helvetica, Arial, sans-serif" font-size="32" font-weight="400" fill="#5F6368" text-anchor="middle">
+      AI Engineer | Google Cloud Specialist | Conversation AI Expert
+    </text>
+    
+    <!-- Star Icon Right -->
+    <text x="1385" y="205" font-size="36" style="animation: pulse 1.8s ease-in-out infinite; animation-delay: 0.9s;">🌟</text>
+  </g>
+  
+  <!-- Decorative Circles with Tech Text -->
+  
+  <!-- Row 1 -->
+  <g style="animation: float 3s ease-in-out infinite;">
+    <circle cx="180" cy="290" r="45" fill="#4285F4" opacity="0.15"/>
+    <circle cx="180" cy="290" r="38" fill="#4285F4"/>
+    <text x="180" y="298" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Python</text>
+  </g>
+  
+  <g style="animation: float 3.2s ease-in-out infinite; animation-delay: 0.3s;">
+    <circle cx="290" cy="290" r="45" fill="#EA4335" opacity="0.15"/>
+    <circle cx="290" cy="290" r="38" fill="#EA4335"/>
+    <text x="290" y="298" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">ML</text>
+  </g>
+  
+  <g style="animation: float 3.4s ease-in-out infinite; animation-delay: 0.6s;">
+    <circle cx="400" cy="290" r="45" fill="#FBBC04" opacity="0.15"/>
+    <circle cx="400" cy="290" r="38" fill="#FBBC04"/>
+    <text x="400" y="298" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">DL</text>
+  </g>
+  
+  <g style="animation: float 3.6s ease-in-out infinite; animation-delay: 0.9s;">
+    <circle cx="510" cy="290" r="45" fill="#34A853" opacity="0.15"/>
+    <circle cx="510" cy="290" r="38" fill="#34A853"/>
+    <text x="510" y="298" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">NLP</text>
+  </g>
+  
+  <g style="animation: float 3.8s ease-in-out infinite; animation-delay: 1.2s;">
+    <circle cx="620" cy="290" r="45" fill="#4285F4" opacity="0.15"/>
+    <circle cx="620" cy="290" r="38" fill="#4285F4"/>
+    <text x="620" y="298" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">GCP</text>
+  </g>
+  
+  <g style="animation: float 4s ease-in-out infinite; animation-delay: 1.5s;">
+    <circle cx="730" cy="290" r="45" fill="#EA4335" opacity="0.15"/>
+    <circle cx="730" cy="290" r="38" fill="#EA4335"/>
+    <text x="730" y="298" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">MLOps</text>
+  </g>
+  
+  <g style="animation: float 3.5s ease-in-out infinite; animation-delay: 1.8s;">
+    <circle cx="840" cy="290" r="45" fill="#FBBC04" opacity="0.15"/>
+    <circle cx="840" cy="290" r="38" fill="#FBBC04"/>
+    <text x="840" y="298" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">SQL</text>
+  </g>
+  
+  <g style="animation: float 3.7s ease-in-out infinite; animation-delay: 2.1s;">
+    <circle cx="950" cy="290" r="45" fill="#34A853" opacity="0.15"/>
+    <circle cx="950" cy="290" r="38" fill="#34A853"/>
+    <text x="950" y="298" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">TensorFlow</text>
+  </g>
+  
+  <g style="animation: float 3.9s ease-in-out infinite; animation-delay: 2.4s;">
+    <circle cx="1060" cy="290" r="45" fill="#4285F4" opacity="0.15"/>
+    <circle cx="1060" cy="290" r="38" fill="#4285F4"/>
+    <text x="1060" y="298" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">PyTorch</text>
+  </g>
+  
+  <g style="animation: float 4.1s ease-in-out infinite; animation-delay: 2.7s;">
+    <circle cx="1170" cy="290" r="45" fill="#EA4335" opacity="0.15"/>
+    <circle cx="1170" cy="290" r="38" fill="#EA4335"/>
+    <text x="1170" y="298" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">LLM</text>
+  </g>
+  
+  <g style="animation: float 3.3s ease-in-out infinite; animation-delay: 3s;">
+    <circle cx="1280" cy="290" r="45" fill="#FBBC04" opacity="0.15"/>
+    <circle cx="1280" cy="290" r="38" fill="#FBBC04"/>
+    <text x="1280" y="298" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">Azure AI</text>
+  </g>
+  
+  <g style="animation: float 3.6s ease-in-out infinite; animation-delay: 3.3s;">
+    <circle cx="1390" cy="290" r="45" fill="#34A853" opacity="0.15"/>
+    <circle cx="1390" cy="290" r="38" fill="#34A853"/>
+    <text x="1390" y="298" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Dialogflow</text>
+  </g>
+  
+  <!-- Decorative Stars (Bottom) -->
+  <g style="animation: twinkle 2.3s ease-in-out infinite; animation-delay: 0.7s;">
+    <circle cx="250" cy="360" r="2.5" fill="#34A853"/>
+    <circle cx="242" cy="360" r="1.2" fill="#34A853"/>
+    <circle cx="258" cy="360" r="1.2" fill="#34A853"/>
+    <circle cx="250" cy="352" r="1.2" fill="#34A853"/>
+    <circle cx="250" cy="368" r="1.2" fill="#34A853"/>
+  </g>
+  
+  <g style="animation: twinkle 2.7s ease-in-out infinite; animation-delay: 1.3s;">
+    <circle cx="1350" cy="365" r="2.5" fill="#4285F4"/>
+    <circle cx="1342" cy="365" r="1.2" fill="#4285F4"/>
+    <circle cx="1358" cy="365" r="1.2" fill="#4285F4"/>
+    <circle cx="1350" cy="357" r="1.2" fill="#4285F4"/>
+    <circle cx="1350" cy="373" r="1.2" fill="#4285F4"/>
+  </g>
+  
+  <!-- Decorative Lines -->
+  <line x1="100" y1="250" x2="1484" y2="250" stroke="url(#allColors)" stroke-width="2" opacity="0.2">
+    <animate attributeName="stroke-dasharray" values="0,2000;2000,0" dur="4s" repeatCount="indefinite"/>
+  </line>
+  
+  <line x1="100" y1="340" x2="1484" y2="340" stroke="url(#allColors)" stroke-width="2" opacity="0.2">
+    <animate attributeName="stroke-dasharray" values="2000,0;0,2000" dur="4s" repeatCount="indefinite"/>
+  </line>
+</svg>
