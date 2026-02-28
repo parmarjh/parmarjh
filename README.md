@@ -13,7 +13,7 @@
 ---
 
 ### 🔱 The Philosophy
-> **"I love Mahakal. We think the word AI is derived from Shiva (ai llp)."**
+> **"I love Mahakal. We think the word AI is derived from ShivaY (ai llp)."**
 *Dedicated to building AI systems that are strong, scalable, and add real value.*
 
 ---
