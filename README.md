@@ -21,7 +21,7 @@
 ### 🚀 About Me
 I am an **AI Engineer** and **Researcher** skilled in crafting end-to-end AI solutions on **Google Cloud** and **AWS**. With deep expertise in **Python, Machine Learning, and Deep Learning**, I specialize in **Generative AI** and **LLMs** to advance technologies like Google Contact Centre AI and future AGI.
 
-- 🔭 **Currently:** Sr. AWS AI ML Solution Architect at [Persistventure](https://persistventures.com/).
+- 🔭 **Currently:** Sr. AWS AI ML Solution Architect at [Persistventure](https://persistventures.com/),[Foundance ](https://app.foundance.org/community/19688?cid=19688) .
 - ⚛️ **Researching:** Quantum Machine Learning and VIBE CODE at [YouWave]().
 - 📚 **Author:** Reviewed **14+ Technical Books** for Packt, Manning, and Springer Nature.
 - 🤝 **Open Source:** Collaborator in `keras`, `tensorflow`, `yolov`, and `pytorch`.
