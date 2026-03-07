@@ -73,6 +73,7 @@ I am an **AI Engineer** and **Researcher** skilled in crafting end-to-end AI sol
 | **ApoB.Io** | 15% discount + daily 80 credit Free Pro Plan | [Claim](https://apob.cello.so/6CNcPlrnIM1) |
 | **Onspace.ai.** |  daily 200 credit Free Pro Plan | [Claim](https://www.onspace.ai/invite/6V98yk4) |
 | **Lovable.dev** | AI Dev Tools Community | [Invite](https://lovable.dev/invite/LY65WA9) |
+| **Outlier.ai** | AI JOb Consulting Network | [Invite](https://app.outlier.ai/expert/referrals/link/oO9-_sDWUO39RKqL7Rl72Z7q_z8) |
 | **FindPros.ai** | AI Consulting Network | [Invite](https://app.findpros.ai/consultant-detail/68e526f388216e0e08d79fcf) |
 | **Skool.com** | AI Earn 40% commission for life | [Invite](https://www.skool.com/ai-seo-with-julian-goldie-1553/about?ref=9fb433bef2ae4de1b91b29b374a6e04c) |
 | **NordVpn** | Get your 3 months free right away depending on the purchased plan | [Invite](https://www.skool.com/ai-seo-with-julian-goldie-1553/about?ref=9fb433bef2ae4de1b91b29b374a6e04c) |
