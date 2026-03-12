@@ -78,7 +78,7 @@ I am an **AI Engineer** and **Researcher** skilled in crafting end-to-end AI sol
 | **Skool.com** | AI Earn 40% commission for life | [Invite](https://www.skool.com/ai-seo-with-julian-goldie-1553/about?ref=9fb433bef2ae4de1b91b29b374a6e04c) |
 | **NordVpn** | Get your 3 months free right away depending on the purchased plan | [Invite](https://www.skool.com/ai-seo-with-julian-goldie-1553/about?ref=9fb433bef2ae4de1b91b29b374a6e04c) |
 | **AutoDM ** | AI Consulting social Network | [invite](https://refer-nordvpn.com/fGUupeSUMOF) |
-| **Leland  ** | AI Consulting social Network | [invite](https://www.joinleland.com/signup?referralCode=69b232ddbf1b9a45fc3c8d41&referralType=3) 
+| **Leland  ** | AI Consulting social Ai Mastery Network | [invite](https://www.joinleland.com/signup?referralCode=69b232ddbf1b9a45fc3c8d41&referralType=3) 
 | **GLG Expert ** | AI Consulting social Network | [invite](https://membership.glgresearch.com/onboarding?referralToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWZlcnJlZEJ5UGVyc29uSWQiOjEzNzEyOTg3LCJjYW1wYWlnbiI6InJlZmVycmFsIiwiaWF0IjoxNzcyMDExODMyfQ.fNH4bYqyTyjz6GRxAgZzaOsum9SQunzUCC_UUzZKeu4) |
 
 ---
