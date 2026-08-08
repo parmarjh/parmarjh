@@ -103,7 +103,7 @@ If you enjoy my contributions or tutorials on **FUNINAIOFFICIAL**, consider supp
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;">
 
 <a href="https://share.google/HYYk9YCrTjMSQgmui" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;">
+  <img src="https://share.google/QfdNoPPLwnLOlxT2u" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;">
   
 </a>
 
