@@ -102,7 +102,7 @@ If you enjoy my contributions or tutorials on **FUNINAIOFFICIAL**, consider supp
 <a href="https://buymeacoffee.com/jhparmar" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;">
 
-<a href="https://share.google/HYYk9YCrTjMSQgmui" target="_blank">
+<a href="https://ko-fi.com/jhparmar" target="_blank">
   <img src="https://storage.ko-fi.com/cdn/useruploads/display/aab9d56e-b1a0-407c-8c37-5600fc8ab906_ko-ficircle.png" height="50" style="border-radius: 8px;">
   
 </a>
