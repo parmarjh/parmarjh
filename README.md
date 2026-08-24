@@ -1,7 +1,7 @@
-# <p align="center">✨ Hi there, I'm Jatinkumar Parmar! 👋</p>
+<p align="center">✨ Hi there, I'm Jatinkumar Parmar! 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Sr.+Data+Scientist+%7C+AI+Researcher;GenAI+%26+LLM+Specialist+%7C+AI+Architect;Quantum+Machine+Learning+Practitioner;Sr.+AWS+AI+ML+Solution+Architect; Founding engineers;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Founding+Engineer;Sr.+Data+Scientist+%7C+AI+Researcher;GenAI+%26+LLM+Specialist+%7C+AI+Architect;Quantum+Machine+Learning+Practitioner;Sr.+AWS+AI+ML+Solution+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,17 +13,17 @@
 ---
 
 ### 🔱 The Philosophy
-> **"I love Mahakal. We think the word AI is derived from ShivaY (ai llp) [Shivai ai llp](https://shivaiaillp.lovable.app)."**
+> **"I love Mahakal. We think the word AI is derived from ShivaY (ai llp) [Shivai ai llp](https://shivaiaillp.lovable.app)."**  
 *Dedicated to building AI systems that are strong, scalable, and add real value.*
 
 ---
 
 ### 🚀 About Me
-I am an **AI Engineer** and **Researcher** skilled in crafting end-to-end AI solutions on **Google Cloud** and **AWS**. With deep expertise in **Python, Machine Learning, and Deep Learning**, I specialize in **Generative AI** and **LLMs** to advance technologies like Google Contact Centre AI and future AGI.
+I am a **Founding Engineer**, **AI Architect**, and **Researcher** skilled in crafting end-to-end AI solutions on **Google Cloud** and **AWS**. With deep expertise in **Python, Machine Learning, and Deep Learning**, I specialize in **Generative AI** and **LLMs** to advance enterprise architectures and intelligent agentic systems.
 
-I’m technically strong with hands-on experience in AI architecture, automation, and software engineering, though I’m less confident with theoretical discussions. I focus on practical problem-solving, real-world implementation, and scalable system design. I also maintain 900+ projects on GitHub showcasing my development, AI, and automation work
+I focus on practical problem-solving, real-world implementation, and scalable system design. I actively maintain open-source repositories and projects showcasing AI, automation, and full-stack development.
 
-- 🔭 **Currently:** Sr. AWS AI ML Solution Architect at [Persist venture](https://persistventures.com/),[Foundance ](https://app.foundance.org/community/19688?cid=19688) , [Product space ](https://theproductspace.in/ref/UMVYDWJV).
+- 🔭 **Currently:** Founding Engineer & Sr. AWS AI ML Solution Architect at [Persist Ventures](https://persistventures.com/), [Foundance](https://app.foundance.org/community/19688?cid=19688), [Product Space](https://theproductspace.in/ref/UMVYDWJV).
 - ⚛️ **Researching:** Quantum Machine Learning and VIBE CODE at [YouWave]().
 - 📚 **Author:** Reviewed **14+ Technical Books** for Packt, Manning, and Springer Nature.
 - 🤝 **Open Source:** Collaborator in `keras`, `tensorflow`, `yolov`, and `pytorch`.
@@ -39,14 +39,10 @@ I’m technically strong with hands-on experience in AI architecture, automation
 | Component | Specification |
 | :--- | :--- |
 | **CPU** | Intel Core i7-10870H (2.20GHz) |
-| **GPU** | Nvidia RTX 3060 Laptop (84.1% Bench) |
-| **RAM** | #32GB Hynix HMAA2GS6AJR8N-XN |
+| **GPU** | Nvidia RTX 3060 Laptop |
+| **RAM** | 32GB Hynix HMAA2GS6AJR8N-XN |
 | **Storage** | 1TB Samsung MZVLB1T0HBLR-00007 SSD |
-| **Blackwell**  |  (B100/B200/B300) | 
-
----
-
-
+| **Compute / Infra** | NVIDIA Blackwell (B100/B200/B300) |
 
 ---
 
@@ -63,49 +59,48 @@ I’m technically strong with hands-on experience in AI architecture, automation
 ### 🏆 Referral & Opportunity Hub
 *I actively explore and share premium platforms. Join me via these links:*
 
-| Platform | Benefit / Description | Referral   job  |
+| Platform | Benefit / Description | Referral Link |
 | :--- | :--- | :--- |
 | **Youware** | 1000+ Minimum Rewards | [Join Now](https://www.youware.com/invite/VT0J5IX06B) |
 | **Mulerun** | AI Automation Marketing Tools | [Try Free](https://mulerun.com/invitation/DCYYM68ZUUSR) |
 | **Micro1** | AI/ML Job Referrals | [View Jobs](https://refer.micro1.ai/referral/jobs?referralCode=e649238d-eb23-4aa4-947b-561158d106fb) |
 | **Braintrust** | SDE & Product Manager roles | [Referral](https://app.usebraintrust.com/r/jatinkumar2/) |
-| **Wellfound** | SDE & AI ML GENAI Product Manager roles | [Referral](https://wellfound.com/l/2yrQVX) |
+| **Wellfound** | SDE & AI ML GenAI Product Manager roles | [Referral](https://wellfound.com/l/2yrQVX) |
 | **Mercor** | Remote Job Network | [Explore](https://work.mercor.com/?referralCode=27f22b2a-d157-11ee-a4ba-42010a400021) |
 | **Perplexity** | 1 Month Free Pro Plan | [Claim](https://pplx.ai/jainjatin) |
-| **ApoB.Io** | 15% discount + daily 80 credit Free Pro Plan | [Claim](https://apob.cello.so/6CNcPlrnIM1) |
-| **Onspace.ai.** |  daily 200 credit Free Pro Plan | [Claim](https://www.onspace.ai/invite/6V98yk4) |
+| **ApoB.ai** | 15% discount + daily 80 credit Free Pro Plan | [Claim](https://apob.cello.so/6CNcPlrnIM1) |
+| **Onspace.ai** | Daily 200 credit Free Pro Plan | [Claim](https://www.onspace.ai/invite/6V98yk4) |
 | **Lovable.dev** | AI Dev Tools Community | [Invite](https://lovable.dev/invite/LY65WA9) |
-| **Outlier.ai** | AI JOb Consulting Network | [Invite](https://app.outlier.ai/expert/referrals/link/oO9-_sDWUO39RKqL7Rl72Z7q_z8) |
+| **Outlier.ai** | AI Job Consulting Network | [Invite](https://app.outlier.ai/expert/referrals/link/oO9-_sDWUO39RKqL7Rl72Z7q_z8) |
 | **FindPros.ai** | AI Consulting Network | [Invite](https://app.findpros.ai/consultant-detail/68e526f388216e0e08d79fcf) |
-| **Skool.com** | AI Earn 40% commission for life | [Invite](https://www.skool.com/ai-seo-with-julian-goldie-1553/about?ref=9fb433bef2ae4de1b91b29b374a6e04c) |
-| **NordVpn** | Get your 3 months free right away depending on the purchased plan | [Invite](https://www.skool.com/ai-seo-with-julian-goldie-1553/about?ref=9fb433bef2ae4de1b91b29b374a6e04c) |
-| **AutoDM ** | AI Consulting social Network | [invite](https://refer-nordvpn.com/fGUupeSUMOF) |
-| **Leland  ** | AI Consulting social Ai Mastery Network | [invite](https://www.joinleland.com/signup?referralCode=69b232ddbf1b9a45fc3c8d41&referralType=3) 
-| **GLG Expert ** | AI Consulting social Network | [invite](https://membership.glgresearch.com/onboarding?referralToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWZlcnJlZEJ5UGVyc29uSWQiOjEzNzEyOTg3LCJjYW1wYWlnbiI6InJlZmVycmFsIiwiaWF0IjoxNzcyMDExODMyfQ.fNH4bYqyTyjz6GRxAgZzaOsum9SQunzUCC_UUzZKeu4) |
+| **Skool.com** | AI Community Network | [Invite](https://www.skool.com/ai-seo-with-julian-goldie-1553/about?ref=9fb433bef2ae4de1b91b29b374a6e04c) |
+| **NordVPN** | 3 Months Free on select plans | [Claim](https://refer-nordvpn.com/fGUupeSUMOF) |
+| **Leland** | AI Coaching & Career Network | [Invite](https://www.joinleland.com/signup?referralCode=69b232ddbf1b9a45fc3c8d41&referralType=3) |
+| **GLG Expert** | Council Member & Consulting Network | [Invite](https://membership.glgresearch.com/onboarding?referralToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWZlcnJlZEJ5UGVyc29uSWQiOjEzNzEyOTg3LCJjYW1wYWlnbiI6InJlZmVycmFsIiwiaWF0IjoxNzcyMDExODMyfQ.fNH4bYqyTyjz6GRxAgZzaOsum9SQunzUCC_UUzZKeu4) |
 
 ---
 
-### 🥅 2025-26 Vision
+### 🥅 2026 Vision
 Exploring the frontiers of research in:
-- 🌌 **AGI & Future AI Systems**
-- 🖼️ **Computer Vision & Image Segmentation**
-- 🎧 **Audio Deep Learning**
-- 📈 **Time Series Analysis**
-- 🛰️ **Satellite Imagery Analysis**
-- 🛠️ **No-code Platform Development**
+- 🌌 **AGI & Agentic Workflows**
+- 🖼️ **Computer Vision & Multimodal Systems**
+- 🎧 **Real-Time Voice AI & Speech Processing**
+- 📈 **Time Series & Predictive Modeling**
+- 🛠️ **No-code / Low-code Automation Architecture**
 
 ---
 
 ### ☕ Support My Work
 If you enjoy my contributions or tutorials on **FUNINAIOFFICIAL**, consider supporting me!
 
-<a href="https://buymeacoffee.com/jhparmar" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;">
-
-<a href="https://ko-fi.com/jhparmar" target="_blank">
-  <img src="https://storage.ko-fi.com/cdn/useruploads/display/aab9d56e-b1a0-407c-8c37-5600fc8ab906_ko-ficircle.png" height="50" style="border-radius: 8px;">
-  
-</a>
+<p align="left">
+  <a href="https://buymeacoffee.com/jhparmar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="42" style="border-radius: 8px;">
+  </a>
+  <a href="https://ko-fi.com/jhparmar" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/useruploads/display/aab9d56e-b1a0-407c-8c37-5600fc8ab906_ko-ficircle.png" alt="Ko-fi" height="42" style="border-radius: 8px;">
+  </a>
+</p>
 
 ---
 <p align="center">
