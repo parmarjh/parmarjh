@@ -1,7 +1,7 @@
 <p align="center">✨ Hi there, I'm Jatinkumar Parmar! 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Founding+Engineer;Sr.+Data+Scientist+%7C+AI+Researcher;GenAI+%26+LLM+Specialist+%7C+AI+Architect;Quantum+AI Machine+Learning+Practitioner;Sr.+AWS+AI+ML+Solution+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Founding+Engineer;Sr.+Data+Scientist+%7C+AI+Researcher;GenAI+%26+LLM+Specialist+%7C+AI+Architect;Quantum+AIMachine+Learning+Practitioner;Sr.+AWS+AI+ML+Solution+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
