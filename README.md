@@ -13,7 +13,7 @@
 ---
 
 ### 🔱 The Philosophy
-> **"I love Mahakal. We think the word AI is derived from ShivaY (ai llp) [Shivai ai llp](https://sal-amber.vercel.app/)."**  
+> **"I love Mahakal. We think the word AI is derived from ShivaY (ai llp) [Shivai ai llp](https://sal-amber.vercel.app/). , [Jatins POrtfolios](https://parmarjh.github.io/generative-ai-portfolios/#portfolio/) "**  
 *Dedicated to building AI systems that are strong, scalable, and add real value.*
 
 ---
